@@ -1,14 +1,13 @@
 {
-    "name": "mad-web/laravel-robots",
+    "name": "empatix/laravel-robots",
     "description": "Robots.txt generator service.",
     "type": "library",
     "keywords": [
-        "mad-web",
         "laravel-robots",
         "robots",
         "seo"
     ],
-    "homepage": "https://github.com/mad-web/laravel-robots",
+    "homepage": "https://github.com/ansatte/laravel-robots",
     "license": "MIT",
     "authors": [
         {
